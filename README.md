@@ -42,11 +42,6 @@ python3 benchmark.py
 # demo CLI
 python3 main.py
 ```
-
-Muốn dùng LLM thật? `export OPENAI_API_KEY=...` rồi chạy như trên.
-Muốn dùng LangGraph thật? `pip install langgraph` — code tự detect và
-compile graph thật qua `StateGraph`.
-
 ## Mapping rubric → file
 
 | Rubric | File / Artifact | Ghi chú |
